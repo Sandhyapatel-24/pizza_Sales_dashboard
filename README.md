@@ -40,7 +40,9 @@ Tools & Technologies Used
 - Business Intelligence
 
 Dashboard Preview
+
 ![Dashboard Preview](dashboard.png)
 
 Author
+
 Sandhya Patel
